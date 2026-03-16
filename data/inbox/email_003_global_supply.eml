@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============0774111248765873849=="
+MIME-Version: 1.0
+Message-ID: <inv-1005@globalsupply.com>
+Subject: Invoice INV-1005 from Global Supply Chain Partners
+From: ar@globalsupplychain.com
+To: accounts@acmecorp.com
+Date: Sun, 18 Jan 2026 11:15:00 +0000
+
+--===============0774111248765873849==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Attached please find invoice INV-1005 for your recent order.
+
+Terms: Net 60
+
+Thank you,
+Global Supply Chain Partners
+--===============0774111248765873849==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice_1005.json"
+
+ewogICJpbnZvaWNlX251bWJlciI6ICJJTlYtMTAwNSIsCiAgInZlbmRvciI6IHsKICAgICJuYW1l
+IjogIkdsb2JhbCBTdXBwbHkgQ2hhaW4gUGFydG5lcnMiLAogICAgImFkZHJlc3MiOiAiMTYwMCBQ
+ZW5uc3lsdmFuaWEgQXZlLCBXYXNoaW5ndG9uLCBEQyAyMDUwMCIKICB9LAogICJkYXRlIjogIjIw
+MjYtMDEtMTgiLAogICJkdWVfZGF0ZSI6ICIyMDI2LTAzLTE4IiwKICAibGluZV9pdGVtcyI6IFsK
+ICAgIHsiaXRlbSI6ICJXaWRnZXRBIiwgInF1YW50aXR5IjogMTQsICJ1bml0X3ByaWNlIjogMjUw
+LjAwfSwKICAgIHsiaXRlbSI6ICJHYWRnZXRYIiwgInF1YW50aXR5IjogOCwgInVuaXRfcHJpY2Ui
+OiA3NTAuMDB9LAogICAgeyJpdGVtIjogIldpZGdldEIiLCAicXVhbnRpdHkiOiAxMCwgInVuaXRf
+cHJpY2UiOiA1MDAuMDB9CiAgXSwKICAic3VidG90YWwiOiAxNDUwMC4wMCwKICAidGF4X3JhdGUi
+OiAwLjA1LAogICJ0YXhfYW1vdW50IjogNzI1LjAwLAogICJ0b3RhbCI6IDE1MjI1LjAwLAogICJj
+dXJyZW5jeSI6ICJVU0QiLAogICJwYXltZW50X3Rlcm1zIjogIk5ldCA2MCIKfQo=
+
+--===============0774111248765873849==--

@@ -1,0 +1,36 @@
+Content-Type: multipart/mixed; boundary="===============7835842327588333542=="
+MIME-Version: 1.0
+Message-ID: <inv-1007@megawidgets.com>
+Subject: Invoice INV-1007 - Large Order Q1 2026
+From: accounts@megawidgets-corp.com
+To: accounts@acmecorp.com
+Date: Wed, 28 Jan 2026 16:45:00 +0000
+
+--===============7835842327588333542==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Accounts Payable,
+
+Please process our invoice INV-1007 for your Q1 bulk order.
+
+Total: $15,525.00 (Net 30)
+
+Regards,
+MegaWidgets Corp
+--===============7835842327588333542==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice_1007.csv"
+
+SW52b2ljZSBOdW1iZXIsVmVuZG9yLERhdGUsRHVlIERhdGUsSXRlbSxRdHksVW5pdCBQcmljZSxM
+aW5lIFRvdGFsCklOVi0xMDA3LE1lZ2FXaWRnZXRzIENvcnAsMDEvMjgvMjAyNiwwMi8yOC8yMDI2
+LFdpZGdldEEsMjAsMjUwLjAwLDUwMDAuMDAKSU5WLTEwMDcsTWVnYVdpZGdldHMgQ29ycCwwMS8y
+OC8yMDI2LDAyLzI4LzIwMjYsV2lkZ2V0QiwxNSw1MDAuMDAsNzUwMC4wMApJTlYtMTAwNyxNZWdh
+V2lkZ2V0cyBDb3JwLDAxLzI4LzIwMjYsMDIvMjgvMjAyNixHYWRnZXRYLDMsNzUwLjAwLDIyNTAu
+MDAKLCwsLCwsU3VidG90YWw6LDE0NzUwLjAwCiwsLCwsLFRheCAoNiUpOiw4ODUuMDAKLCwsLCws
+VG90YWw6LDE1NTI1LjAwCg==
+
+--===============7835842327588333542==--
