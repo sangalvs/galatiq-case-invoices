@@ -1,0 +1,9 @@
+invoice_number,vendor,date,due_date,item,qty,unit_price,line_total
+INV-1022,Messy CSV Supplies Inc,2026-01-31,2026-02-28,WidgetA,5,25O.OO,125O.OO
+,,,,WidgetB,3,5OO.OO,15OO.OO
+,,,,GadgetX,2,75O.OO,15OO.OO
+
+,,,,,,Subtotal,425O.OO
+,,,,,,Tax (8%),34O.OO
+,,,,,,Total,459O.OO
+payment_terms,Net 30,,,,,,

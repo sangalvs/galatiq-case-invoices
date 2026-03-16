@@ -1,0 +1,31 @@
+Content-Type: multipart/mixed; boundary="===============3592423920041213073=="
+MIME-Version: 1.0
+Message-ID: <urgent-inv@fraudster-llc.net>
+Subject: URGENT: Invoice Overdue - Immediate Payment Required
+From: billing@fraudster-llc.net
+To: accounts@acmecorp.com
+Date: Tue, 20 Jan 2026 14:30:00 +0000
+
+--===============3592423920041213073==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+URGENT NOTICE
+
+Your account is severely past due. Wire transfer IMMEDIATELY to avoid penalties.
+
+See attached invoice.
+--===============3592423920041213073==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice_1003.txt"
+
+SU5WT0lDRQoKVmVuZG9yOiBGcmF1ZHN0ZXIgTExDCkludm9pY2UgTnVtYmVyOiBJTlYtMTAwMwpE
+YXRlOiAyMDI2LTAxLTIwCkR1ZSBEYXRlOiB5ZXN0ZXJkYXkKCkl0ZW1zOgogIEZha2VJdGVtICAg
+cXR5OiAxMDAgICB1bml0IHByaWNlOiAkMSwwMDAuMDAKClRvdGFsIEFtb3VudDogJDEwMCwwMDAu
+MDAKClBheW1lbnQgVGVybXM6IEltbWVkaWF0ZQpOb3RlczogVVJHRU5UIC0gUGF5IGltbWVkaWF0
+ZWx5IHRvIGF2b2lkIHBlbmFsdGllcyEhISBXaXJlIHRyYW5zZmVyIHByZWZlcnJlZC4K
+
+--===============3592423920041213073==--
